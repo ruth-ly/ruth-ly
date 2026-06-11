@@ -18,7 +18,7 @@
 - 🔬 core enthusiast — chips, circuits & everything silicon
 - 🤖 exploring ai/ml on the side, because why not both
 - 🌱 learning verilog, digital design & building in public
-- 🍼 fueled by protein and some DB's
+- ☕ fueled by chai and the smell of a freshly synthesized netlist
 
 <br/>
 
@@ -26,15 +26,23 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,tensorflow,pytorch,arduino,raspberrypi,git,vscode&perline=10" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino,raspberrypi,tensorflow,pytorch,git,vscode&perline=10" alt="tech stack" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Verilog-c9a7eb?style=for-the-badge&logoColor=white" alt="verilog" />
-<img src="https://img.shields.io/badge/VHDL-f5c2e7?style=for-the-badge&logoColor=white" alt="vhdl" />
-<img src="https://img.shields.io/badge/Cadence-d28ae0?style=for-the-badge&logoColor=white" alt="cadence" />
-<img src="https://img.shields.io/badge/LTspice-c9a7eb?style=for-the-badge&logoColor=white" alt="ltspice" />
-<img src="https://img.shields.io/badge/Xilinx_Vivado-f5c2e7?style=for-the-badge&logoColor=white" alt="vivado" />
+<img src="https://img.shields.io/badge/SystemVerilog-f5c2e7?style=for-the-badge&logoColor=white" alt="systemverilog" />
+<img src="https://img.shields.io/badge/VHDL-d28ae0?style=for-the-badge&logoColor=white" alt="vhdl" />
+<img src="https://img.shields.io/badge/KiCad-c9a7eb?style=for-the-badge&logo=kicad&logoColor=white" alt="kicad" />
+<img src="https://img.shields.io/badge/Altium_Designer-f5c2e7?style=for-the-badge&logoColor=white" alt="altium designer" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cadence_Virtuoso-d28ae0?style=for-the-badge&logoColor=white" alt="cadence virtuoso" />
+<img src="https://img.shields.io/badge/Xilinx_Vivado-c9a7eb?style=for-the-badge&logoColor=white" alt="vivado" />
+<img src="https://img.shields.io/badge/LTspice-f5c2e7?style=for-the-badge&logoColor=white" alt="ltspice" />
+<img src="https://img.shields.io/badge/Multisim-d28ae0?style=for-the-badge&logoColor=white" alt="multisim" />
+<img src="https://img.shields.io/badge/Proteus-c9a7eb?style=for-the-badge&logoColor=white" alt="proteus" />
 
 </div>
 
