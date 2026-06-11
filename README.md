@@ -18,7 +18,7 @@
 - 🔬 core enthusiast — chips, circuits & everything silicon
 - 🤖 exploring ai/ml on the side, because why not both
 - 🌱 learning verilog, digital design & building in public
-- ☕ fueled by chai and the smell of a freshly synthesized netlist
+- 🍼 fueled by protein and some DB's
 
 <br/>
 
